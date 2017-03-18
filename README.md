@@ -1,0 +1,2 @@
+# AzureHDInsightTraining
+AzureHD Insight Traingin
